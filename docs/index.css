@@ -33,7 +33,7 @@ h1 { margin-top:1em; }
 #projects li { margin: 10px 0; }
 a { text-decoration:underline; }
 a:hover { text-decoration:none; }
-`.project-name {
+.project-name {
 font-weight:bold;
 }
 p {
